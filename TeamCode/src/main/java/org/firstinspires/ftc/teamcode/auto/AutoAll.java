@@ -23,7 +23,7 @@ public class AutoAll extends LinearOpMode {
         run(0.5, -0.5, 1, "turn right");
         run(1, 1, 3, "go forth");
 
-        
+
 
     }
 
